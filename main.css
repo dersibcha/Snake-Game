@@ -1,0 +1,12 @@
+body{
+   background: #ecf0f1;
+}
+
+.game{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
