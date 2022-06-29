@@ -7,4 +7,4 @@ Used JS, CSS and HTML
 - Score change color after beating highscore
 
 
-Developed for an HAckerRank challenge 
+Developed for an HackerRank challenge 
